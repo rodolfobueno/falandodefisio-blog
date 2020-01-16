@@ -1,12 +1,12 @@
 import React from "react"
 
 import HeaderMenu from "../HeaderMenu"
-import HeaderLogo from "../HeaderLogo"
+import Logo from "../Logo"
 import * as S from "./styled"
 
 const Header = () => (
   <S.HeaderWrapper>
-    <HeaderLogo />
+    <Logo />
 
     <HeaderMenu />
   </S.HeaderWrapper>

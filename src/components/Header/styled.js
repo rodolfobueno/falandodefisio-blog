@@ -6,5 +6,3 @@ export const HeaderWrapper = styled.header`
   align-items: center;
   padding: 1.8rem 10rem;
 `
-
-export const HeaderLogo = styled.div``
