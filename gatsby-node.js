@@ -1,11 +1,9 @@
 const path = require("path")
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// You can delete this file if you're not using it
-// To add the slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
-  // Ensures we are processing only markdown files
+
   if (node.internal.type === "MarkdownRemark") {
     const slug = createFilePath({
       node,
@@ -13,7 +11,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       basePath: "pages",
     })
 
-    // Creates new query'able field with name of 'slug'
     createNodeField({
       node,
       name: "slug",
@@ -22,7 +19,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 }
 
-// To create the posts pages
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   return graphql(`
@@ -42,20 +38,36 @@ exports.createPages = ({ graphql, actions }) => {
             }
             timeToRead
           }
+          next {
+            frontmatter {
+              title
+            }
+            fields {
+              slug
+            }
+          }
+          previous {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+            }
+          }
         }
       }
     }
   `).then(result => {
     const posts = result.data.allMarkdownRemark.edges
 
-    posts.forEach(({ node }) => {
+    posts.forEach(({ node, next, previous }) => {
       createPage({
         path: node.fields.slug,
         component: path.resolve(`./src/templates/blog-post.js`),
         context: {
-          // Data passed to context is available
-          // in page queries as GraphQL variables.
           slug: node.fields.slug,
+          previousPost: next,
+          nextPost: previous,
         },
       })
     })
