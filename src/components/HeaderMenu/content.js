@@ -7,10 +7,6 @@ const links = [
     url: "/sobre-nos",
     label: "Sobre",
   },
-  {
-    url: "/contato",
-    label: "Contato",
-  },
 ]
 
 export default links

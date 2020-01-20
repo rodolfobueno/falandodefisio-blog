@@ -5,9 +5,11 @@ export const LayoutWrapper = styled.section`
 `
 
 export const LayoutMain = styled.main`
-  background: #fff;
+  background: var(--background);
   min-height: 100vh;
 
   width: 100%;
 `
-export const LayoutContent = styled.div``
+export const BodyWrapper = styled.div`
+  padding-top: 4rem;
+`

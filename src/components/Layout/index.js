@@ -12,7 +12,7 @@ const Layout = ({ children }) => {
       <S.LayoutMain>
         <Header />
 
-        {children}
+        <S.BodyWrapper>{children}</S.BodyWrapper>
       </S.LayoutMain>
     </S.LayoutWrapper>
   )

@@ -1,7 +1,23 @@
 import styled from "styled-components"
 import { Link } from "gatsby"
+import media from "styled-media-query"
 
-export const HeaderMenuWrapper = styled.nav``
+export const HeaderMenuWrapper = styled.nav`
+  display: flex;
+`
+
+export const HeaderMenuIcons = styled.div`
+  padding-left: 1rem;
+  margin-top: -5px;
+`
+
+export const HeaderMenuIconSpan = styled.span`
+  cursor: pointer;
+  display: inline-block;
+  height: 2rem;
+  width: 1.5rem;
+  margin-right: 5px;
+`
 
 export const HeaderMenuList = styled.ul`
   display: flex;

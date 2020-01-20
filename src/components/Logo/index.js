@@ -8,14 +8,14 @@ const Logo = () => {
     query {
       logoImage: file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
-          fixed(height: 55, width: 180) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 180) {
+            ...GatsbyImageSharpFluid_tracedSVG
           }
         }
       }
     }
   `)
-  return <S.ImgWrapper fixed={logoImage.childImageSharp.fixed} />
+  return <S.ImgWrapper fluid={logoImage.childImageSharp.fluid} />
 }
 
 export default Logo
