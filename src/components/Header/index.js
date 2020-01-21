@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import HeaderMenu from "../HeaderMenu"
 import Logo from "../Logo"
@@ -6,9 +7,13 @@ import * as S from "./styled"
 
 const Header = () => (
   <S.HeaderWrapper>
-    <Logo />
+    <S.Container>
+      <Link to="/">
+        <Logo />
+      </Link>
 
-    <HeaderMenu />
+      <HeaderMenu />
+    </S.Container>
   </S.HeaderWrapper>
 )
 

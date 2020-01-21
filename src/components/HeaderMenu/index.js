@@ -8,7 +8,7 @@ import { Search } from "styled-icons/boxicons-regular/Search"
 
 const HeaderMenu = () => (
   <S.HeaderMenuWrapper>
-    <S.HeaderMenuList>
+    {/* <S.HeaderMenuList>
       {links.map((link, i) => (
         <S.HeaderMenuListItem key={i}>
           <S.HeaderMenuListItemLink to={link.url} activeClassName="active">
@@ -16,7 +16,7 @@ const HeaderMenu = () => (
           </S.HeaderMenuListItemLink>
         </S.HeaderMenuListItem>
       ))}
-    </S.HeaderMenuList>
+    </S.HeaderMenuList> */}
     <S.HeaderMenuIcons>
       <S.HeaderMenuIconSpan>
         <Search />

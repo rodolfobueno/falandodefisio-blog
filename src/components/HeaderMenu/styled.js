@@ -1,14 +1,12 @@
 import styled from "styled-components"
 import { Link } from "gatsby"
-import media from "styled-media-query"
 
 export const HeaderMenuWrapper = styled.nav`
   display: flex;
 `
 
 export const HeaderMenuIcons = styled.div`
-  padding-left: 1rem;
-  margin-top: -5px;
+  color: #6a809a;
 `
 
 export const HeaderMenuIconSpan = styled.span`
@@ -16,7 +14,8 @@ export const HeaderMenuIconSpan = styled.span`
   display: inline-block;
   height: 2rem;
   width: 1.5rem;
-  margin-right: 5px;
+  margin-left: 1rem;
+  padding-top: 0.5rem;
 `
 
 export const HeaderMenuList = styled.ul`

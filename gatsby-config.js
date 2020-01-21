@@ -7,6 +7,11 @@ module.exports = {
     title: `Blog - Falando de Fisio`,
     description: `Projeto de um blog feito exclusivamente para se falar de fisioterapia.`,
     author: `@pleni_saude`,
+    siteUrl: `https://falandodefisio.com.br/`,
+    social: {
+      twitterLink: `falandodefisio_`,
+      instagramLink: `https://www.instagram.com/in/falandodefisio/`,
+    },
   },
   plugins: [
     `gatsby-plugin-styled-components`,

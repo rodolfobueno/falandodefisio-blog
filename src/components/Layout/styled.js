@@ -11,5 +11,9 @@ export const LayoutMain = styled.main`
   width: 100%;
 `
 export const BodyWrapper = styled.div`
-  padding-top: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1024px;
 `

@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 
 import * as S from "./styled"
 import Header from "../Header"
+import Footer from "../Footer"
 import GlobalStyles from "../../styles/global"
 
 const Layout = ({ children }) => {
@@ -13,6 +14,7 @@ const Layout = ({ children }) => {
         <Header />
 
         <S.BodyWrapper>{children}</S.BodyWrapper>
+        <Footer />
       </S.LayoutMain>
     </S.LayoutWrapper>
   )
