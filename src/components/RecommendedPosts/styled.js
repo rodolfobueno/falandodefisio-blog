@@ -4,13 +4,11 @@ import { Link } from "gatsby"
 export const RecommendedWrapper = styled.section`
   border-bottom: 1px solid var(--borders);
   border-top: 1px solid var(--borders);
-  background: var(--mediumBackground);
   display: flex;
 `
 
 export const RecommendedLink = styled(Link)`
   align-items: center;
-  background: var(--mediumBackground);
   color: var(--highlight);
   display: flex;
   padding: 3rem;

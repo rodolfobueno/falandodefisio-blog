@@ -3,11 +3,11 @@ import styled from "styled-components"
 export const FooterWrapper = styled.footer`
   -webkit-box-align: center;
   align-items: center;
-  background-color: var(--background);
+  background-color: var(--lightPink);
   bottom: 0px;
   box-shadow: 2px 3px 4px rgba(18, 18, 18, 0.12);
   border-top: 1px solid var(--borders);
-  color: #333;
+  color: var(--postColor);
   display: flex;
   height: 3rem;
   -webkit-box-pack: center;

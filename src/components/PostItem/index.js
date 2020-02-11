@@ -15,12 +15,15 @@ const PostItem = ({
   <S.PostItemLink to={slug}>
     <S.PostItemWrapper>
       <S.PostItemInfo>
-        <S.PostItemTag background={background}>{category}</S.PostItemTag>
         <S.PostItemDate>
           {date} • {timeToRead} min de leitura
         </S.PostItemDate>
         <S.PostItemTitle>{title}</S.PostItemTitle>
         <S.PostItemDescription>{description}</S.PostItemDescription>
+        <S.TagCategoryWrapper>
+          <S.TagIcon />
+          <S.PostItemTag>{category}</S.PostItemTag>
+        </S.TagCategoryWrapper>
       </S.PostItemInfo>
     </S.PostItemWrapper>
   </S.PostItemLink>

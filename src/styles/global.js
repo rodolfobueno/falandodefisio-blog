@@ -68,12 +68,15 @@ const GlobalStyles = createGlobalStyle`
     --postColor: #fff;
     --highlight: #1fa1f2;
     --mediumBackground: #192734;
-    --background: #16202c;
+    --background: #1d1d1d;
     --white: #fff;
     --black: #222;
+    --lightGray: #fbfbfb;
+    --lightPink: #f0d3e1;
+    --pink: #dc7aa5;
   }
-  body {
-    --borders: #dedede;
+  body.light {
+    --borders: #f0d3e1;
     --postColor: #111;
     --texts: #555555;
     --highlight: #1fa1f2;
@@ -81,6 +84,9 @@ const GlobalStyles = createGlobalStyle`
     --background: #fff;
     --white: #fff;
     --black: #222;
+    --lightGray: #fbfbfb;
+    --lightPink: #f0d3e1;
+    --pink: #dc7aa5;
   }
 `
 export default GlobalStyles
