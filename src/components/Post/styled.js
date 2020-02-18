@@ -1,5 +1,11 @@
 import styled from "styled-components"
 
+export const PostsWrapper = styled.div`
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 910px;
+`
+
 export const PostHeader = styled.header`
   color: var(--postColor);
   margin: auto;

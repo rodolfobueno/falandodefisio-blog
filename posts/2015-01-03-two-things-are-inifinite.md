@@ -1,9 +1,9 @@
 ---
-date: 2015-01-05 05:54:23
-title: Lorem lorem ipsum
-description: And I'm lorem sure lorem
+date: 2015-01-03 05:54:23
+title: Two things are infinite
+description: And I'm not sure about the universe.
 category: svg, test, outro
-background: "#7AAB13"
+thumbnail: assets/img/desert.jpg
 ---
 
 # Lorem ipsum

@@ -2,17 +2,16 @@ import styled from "styled-components"
 
 export const LayoutWrapper = styled.section`
   display: flex;
+  overflow: hidden;
 `
 
 export const LayoutMain = styled.main`
   background: var(--background);
   min-height: 100vh;
   width: 100%;
+  position: relative;
 `
 export const BodyWrapper = styled.div`
   padding-top: 6rem;
   padding-bottom: 4rem;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 910px;
 `

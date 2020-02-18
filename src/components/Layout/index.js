@@ -16,9 +16,7 @@ const Layout = ({ children }) => {
           <Header />
         </TransitionPortal>
         <S.BodyWrapper>{children}</S.BodyWrapper>
-        <TransitionPortal level="top">
-          <Footer />
-        </TransitionPortal>
+        <Footer />
       </S.LayoutMain>
     </S.LayoutWrapper>
   )
