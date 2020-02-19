@@ -9,21 +9,18 @@ const Footer = () => (
     <Social />
     <S.FooterByWho>
       Um blog por{" "}
-      <a
+      <S.FooterByWhoLink
         target="_blank"
         href="http://www.plenifisioterapia.com.br"
         rel="noopener noreferrer"
       >
         Pleni Saúde Integrada
-      </a>
-      {": "}
-      <a
+      </S.FooterByWhoLink>
+      <S.FooterByWhoLink
         target="_blank"
         href="http://www.instagram.com.br/pleni_saude"
         rel="noopener noreferrer"
-      >
-        @plenisaude
-      </a>
+      ></S.FooterByWhoLink>
     </S.FooterByWho>
   </S.FooterWrapper>
 )

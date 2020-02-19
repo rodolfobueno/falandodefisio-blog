@@ -27,13 +27,13 @@ const Social = () => {
 
   return (
     <S.Social>
-      <S.SocialItem
+      {/*     <S.SocialItem
         href={site.siteMetadata.social.twitterLink}
         title="Twitter"
         onClick={() => trackClick("Twitter")}
       >
         <S.SocialTwitter />
-      </S.SocialItem>
+      </S.SocialItem> */}
       <S.SocialItem
         href={site.siteMetadata.social.instagramLink}
         title="Instagram"

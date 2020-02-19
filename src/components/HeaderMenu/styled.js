@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const HeaderMenuWrapper = styled.nav`
   display: flex;
@@ -16,6 +16,10 @@ export const HeaderMenuIconSpan = styled.span`
   width: 1.5rem;
   margin-left: 1rem;
   padding-top: 0.5rem;
+
+  a {
+    color: #6b819b;
+  }
 `
 
 export const HeaderMenuList = styled.ul`
@@ -30,10 +34,15 @@ export const HeaderMenuListItem = styled.li`
   }
 `
 
-export const HeaderMenuListItemLink = styled(Link)`
-  color: #637a97;
+export const HeaderMenuItemLink = styled(AniLink)`
+  cursor: pointer;
+  display: inline-block;
+  height: 2rem;
+  width: 1.5rem;
+  margin-left: 1rem;
+  padding-top: 0.8rem;
+  color: #6b819b;
   text-decoration: none;
-  text-transform: uppercase;
 
   &:hover {
     text-decoration: underline;

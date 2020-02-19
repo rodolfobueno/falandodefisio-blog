@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: `https://falandodefisio.com.br/`,
     social: {
       twitterLink: `falandodefisio_`,
-      instagramLink: `https://www.instagram.com/in/falandodefisio/`,
+      instagramLink: `https://www.instagram.com/pleni_saude/`,
     },
   },
   plugins: [

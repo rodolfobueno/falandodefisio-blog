@@ -6,6 +6,9 @@ export const SearchWrapper = styled.section`
   flex-direction: column;
   width: 100%;
   transition: opacity 0.4s;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 910px;
   .ais-InstantSearch__root {
     display: flex;
     flex-direction: column;
