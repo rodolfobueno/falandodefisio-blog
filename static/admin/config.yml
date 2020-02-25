@@ -1,8 +1,5 @@
 backend:
-  name: github
-  repo: rodolfobueno/falandodefisio-blog
-  branch: master
-  site_domain: https://falandodefisio.netlify.com/
+  name: git-gateway
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
