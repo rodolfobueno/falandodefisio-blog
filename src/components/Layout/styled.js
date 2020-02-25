@@ -9,7 +9,6 @@ export const LayoutMain = styled.main`
   background: var(--background);
   min-height: 100vh;
   width: 100%;
-  position: relative;
 `
 export const BodyWrapper = styled.div`
   padding-top: 6rem;

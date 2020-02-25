@@ -1,16 +1,24 @@
 import React from "react"
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 import HeaderMenu from "../HeaderMenu"
 import Logo from "../Logo"
 import * as S from "./styled"
+import getThemeColor from "../../utils/getThemeColor"
 
 const Header = () => (
   <S.HeaderWrapper>
     <S.Container>
-      <Link to="/">
+      <AniLink
+        to="/"
+        cover
+        direction="top"
+        bg={getThemeColor()}
+        duration={0.6}
+        title="Página inicial"
+      >
         <Logo />
-      </Link>
+      </AniLink>
 
       <HeaderMenu />
     </S.Container>

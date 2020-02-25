@@ -1,7 +1,6 @@
 import styled from "styled-components"
 
 export const FooterWrapper = styled.footer`
-  -webkit-box-align: center;
   align-items: center;
   background-color: #757575;
   bottom: 0px;
@@ -9,14 +8,11 @@ export const FooterWrapper = styled.footer`
   border-top: 1px solid var(--borders);
   color: var(--white);
   display: flex;
-  height: 4rem;
-  -webkit-box-pack: center;
+  height: 3rem;
   justify-content: center;
   left: 0px;
-  padding: 0 2.4rem;
   right: 0px;
-  z-index: 5;
-  position: absolute;
+  position: fixed;
 `
 
 export const FooterByWho = styled.div`

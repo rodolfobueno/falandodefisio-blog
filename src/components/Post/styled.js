@@ -4,7 +4,7 @@ import media from "styled-media-query"
 export const PostsWrapper = styled.div`
   margin-left: auto;
   margin-right: auto;
-  max-width: 910px;
+  max-width: 810px;
 `
 
 export const PostHeader = styled.header`

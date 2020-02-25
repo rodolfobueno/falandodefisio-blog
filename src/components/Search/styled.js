@@ -8,7 +8,7 @@ export const SearchWrapper = styled.section`
   transition: opacity 0.4s;
   margin-left: auto;
   margin-right: auto;
-  max-width: 910px;
+  max-width: 810px;
   .ais-InstantSearch__root {
     display: flex;
     flex-direction: column;

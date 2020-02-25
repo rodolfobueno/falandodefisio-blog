@@ -1,9 +1,9 @@
 import styled from "styled-components"
-import { Link } from "gatsby"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 import { Tag } from "styled-icons/boxicons-regular/Tag"
 
-export const PostItemLink = styled(Link)`
+export const PostItemLink = styled(AniLink)`
   color: var(--texts);
   display: flex;
   text-decoration: none;
@@ -16,7 +16,6 @@ export const PostItemWrapper = styled.section`
   margin: 1rem 2rem;
   width: 100%;
   padding: 1rem 0px;
-  width: 100%;
   background-color: var(--background);
   &:hover {
     box-shadow: 1px 1px 2px -1px rgba(0, 0, 0, 0.3);
