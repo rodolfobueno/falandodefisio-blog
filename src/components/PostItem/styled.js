@@ -28,7 +28,8 @@ export const PostItemTag = styled.div`
   font-size: 11px;
   text-transform: lowercase;
   vertical-align: top;
-  padding-top: 0.2rem;
+  padding-top: 0.3rem;
+  display: inline-block;
 `
 
 export const PostItemInfo = styled.div`
@@ -59,12 +60,12 @@ export const PostItemDescription = styled.p`
 `
 
 export const TagIcon = styled(Tag)`
-  display: block;
+  display: inline-block;
   margin-right: 0.2rem;
   width: 1rem;
 `
 
 export const TagCategoryWrapper = styled.div`
-  display: inline-flex;
+  display: inline-block;
   padding-top: 1rem;
 `
