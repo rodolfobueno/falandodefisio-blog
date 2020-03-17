@@ -4,8 +4,8 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   siteMetadata: {
-    title: `Blog - Falando de Fisio`,
-    description: `Projeto de um blog feito exclusivamente para se falar de fisioterapia.`,
+    title: `A fisioterapia na dose certa para você | Falando de Fisio`,
+    description: `Encontre aqui artigos exclusivos sobre Fisioterapia. Aprenda como se movimentar melhor, eliminar dores, recuperar de lesões e até melhorar sua saúde íntima.`,
     author: `@pleni_saude`,
     siteUrl: `https://falandodefisio.com.br/`,
     social: {
@@ -77,11 +77,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Blog - Falando de Fisio`,
+        name: `Blog Falando de Fisio por @pleni_saude`,
         short_name: `FFisio`,
         start_url: `/`,
-        background_color: `#f0d3e1`,
-        theme_color: `#fbfbfb`,
+        background_color: `#fbfbfb`,
+        theme_color: `#f0d3e1`,
         display: `minimal-ui`,
         icon: `src/images/falandofisio-icon.png`, // This path is relative to the root of the site.
       },
