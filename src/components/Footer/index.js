@@ -1,8 +1,17 @@
 import React from "react"
+import ReactGA from "react-ga"
 
 import Social from "../Social"
 
 import * as S from "./styled"
+
+const trackClick = item => {
+  ReactGA.event({
+    category: "Social",
+    action: "click",
+    label: `Social - ${item}`,
+  })
+}
 
 const Footer = () => (
   <S.FooterWrapper>
@@ -10,16 +19,14 @@ const Footer = () => (
     <S.FooterByWho>
       Um blog por{" "}
       <S.FooterByWhoLink
-        target="_blank"
         href="http://www.plenifisioterapia.com.br"
-        rel="noopener noreferrer"
+        onClick={() => trackClick("Site Pleni")}
       >
         Pleni Saúde Integrada
       </S.FooterByWhoLink>
       <S.FooterByWhoLink
-        target="_blank"
         href="http://www.instagram.com.br/pleni_saude"
-        rel="noopener noreferrer"
+        onClick={() => trackClick("Instagram Pleni")}
       ></S.FooterByWhoLink>
     </S.FooterByWho>
   </S.FooterWrapper>
