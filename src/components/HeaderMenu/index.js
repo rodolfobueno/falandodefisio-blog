@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import ReactGA from "react-ga"
 
 import * as S from "./styled"
 import getThemeColor from "../../utils/getThemeColor"
@@ -6,6 +7,14 @@ import getThemeColor from "../../utils/getThemeColor"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 // import { Lightbulb as Light } from "styled-icons/remix-line/Lightbulb"
 import { Search } from "styled-icons/boxicons-regular/Search"
+
+const trackClick = item => {
+  ReactGA.event({
+    category: "Header",
+    action: "click",
+    label: `Header - ${item}`,
+  })
+}
 
 const HeaderMenu = () => {
   const [theme, setTheme] = useState(null)
@@ -27,6 +36,7 @@ const HeaderMenu = () => {
             bg={getThemeColor()}
             duration={0.6}
             title="Pesquisar"
+            onClick={() => trackClick("Pesquisar")}
           >
             <Search />
           </AniLink>
@@ -48,6 +58,7 @@ const HeaderMenu = () => {
         bg={getThemeColor()}
         duration={0.6}
         title="Quem somos nós"
+        onClick={() => trackClick("Olá")}
       >
         Olá
       </S.HeaderMenuItemLink>

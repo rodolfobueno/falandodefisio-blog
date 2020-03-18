@@ -1,14 +1,15 @@
 import React from "react"
+import ReactGA from "react-ga"
 import { graphql, useStaticQuery } from "gatsby"
 
 import * as S from "./styled"
 
 const trackClick = item => {
-  //   ReactGA.event({
-  //     category: "Social",
-  //     action: "click",
-  //     label: `Social - ${item}`,
-  //   })
+  ReactGA.event({
+    category: "Social",
+    action: "click",
+    label: `Social - ${item}`,
+  })
 }
 
 const Social = () => {
@@ -37,7 +38,7 @@ const Social = () => {
       <S.SocialItem
         href={site.siteMetadata.social.instagramLink}
         title="Instagram"
-        onClick={() => trackClick("Instagram")}
+        onClick={() => trackClick("Instagram Pleni")}
       >
         <S.SocialInstagram />
       </S.SocialItem>
