@@ -4,13 +4,13 @@ import * as S from "./styled"
 import getThemeColor from "../../utils/getThemeColor"
 
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import { Lightbulb as Light } from "styled-icons/remix-line/Lightbulb"
+// import { Lightbulb as Light } from "styled-icons/remix-line/Lightbulb"
 import { Search } from "styled-icons/boxicons-regular/Search"
 
 const HeaderMenu = () => {
   const [theme, setTheme] = useState(null)
 
-  const isDarkMode = theme === "dark"
+  // const isDarkMode = theme === "dark"
 
   useEffect(() => {
     setTheme(window.__theme)

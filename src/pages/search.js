@@ -4,10 +4,10 @@ import Layout from "../components/Layout"
 import SEO from "../components/seo"
 import Search from "../components/Search"
 
-const SearchPage = () => (
+const SearchPage = props => (
   <Layout>
     <SEO title="Busca de artigos" />
-    <Search />
+    <Search props={props} />
   </Layout>
 )
 
