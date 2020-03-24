@@ -24,7 +24,16 @@ const BlogList = props => {
         {postList.map(
           ({
             node: {
-              frontmatter: { background, category, date, description, title },
+              frontmatter: {
+                background,
+                category,
+                date,
+                description,
+                title,
+                thumbnail: {
+                  childImageSharp: { fluid },
+                },
+              },
               timeToRead,
               fields: { slug },
             },
@@ -38,6 +47,7 @@ const BlogList = props => {
               timeToRead={timeToRead}
               title={title}
               description={description}
+              thumbnail={fluid}
             />
           )
         )}
@@ -71,6 +81,13 @@ export const query = graphql`
             date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
             description
             title
+            thumbnail {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
           }
           timeToRead
         }

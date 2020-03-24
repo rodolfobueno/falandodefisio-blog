@@ -1,10 +1,11 @@
 ---
 title: Primeiro artigo do blog
 description: Primeiro artigo do blog
-category: 'fisioterapia, esportiva'
-date: '2020-02-17 11:45:08'
-thumbnail: assets/img/desert.jpg
+category: "fisioterapia, esportiva"
+date: "2020-02-17 11:45:08"
+thumbnail: ../../static/assets/posts/essa.png
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae enim condimentum, posuere velit in, vulputate ligula. Donec a luctus nibh. Cras placerat, dui et vehicula semper, lorem dui condimentum dui, id imperdiet magna lacus eu augue. Nunc at facilisis diam. Integer condimentum lacinia magna, quis hendrerit nisl tincidunt vel. Vivamus ante justo, varius a convallis eu, ultricies in lorem. Pellentesque dui neque, facilisis efficitur odio non, tristique pellentesque libero. Nulla facilisi. Mauris diam neque, feugiat posuere eros nec, imperdiet ullamcorper tortor. Pellentesque id nisl sollicitudin quam imperdiet placerat maximus in tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dolor sem, placerat in sagittis laoreet, mollis sit amet magna. Suspendisse facilisis odio non ullamcorper rutrum.
 
 Ut pharetra ligula neque, sit amet pulvinar ligula rutrum sed. In id condimentum risus. Integer auctor pellentesque hendrerit. Donec eget imperdiet sem. Vivamus pellentesque ligula id urna volutpat tempor. Donec vestibulum commodo mattis. Suspendisse potenti. Ut rutrum quam massa, in porta ex cursus et. Aenean sit amet finibus augue. Donec quis odio purus. Suspendisse bibendum at est non facilisis. Quisque quis nisl vestibulum, euismod tortor vitae, molestie nulla.

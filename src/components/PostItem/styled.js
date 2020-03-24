@@ -1,5 +1,6 @@
 import styled from "styled-components"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import Img from "gatsby-image"
 
 import { Tag } from "styled-icons/boxicons-regular/Tag"
 
@@ -13,7 +14,7 @@ export const PostItemWrapper = styled.section`
   align-items: center;
   border: 1px solid var(--borders);
   display: flex;
-  margin: 1rem 2rem;
+  margin: 1rem 1rem;
   width: 100%;
   padding: 1rem 0px;
   background-color: var(--background);
@@ -68,4 +69,9 @@ export const TagIcon = styled(Tag)`
 export const TagCategoryWrapper = styled.div`
   display: inline-block;
   padding-top: 1rem;
+`
+export const ImgWrapper = styled(Img)`
+  width: 32rem;
+  margin: 1rem 0rem;
+  padding: 1rem 0px;
 `

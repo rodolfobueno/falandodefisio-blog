@@ -1,9 +1,19 @@
 import React from "react"
 import PropTypes from "prop-types"
 import * as S from "./styled"
+import Img from "gatsby-image"
 
-const PostItem = ({ slug, category, date, timeToRead, title, description }) => (
+const PostItem = ({
+  slug,
+  category,
+  date,
+  timeToRead,
+  title,
+  description,
+  thumbnail,
+}) => (
   <S.PostItemLink to={slug}>
+    <S.ImgWrapper fluid={thumbnail} />
     <S.PostItemWrapper>
       <S.PostItemInfo>
         <S.PostItemDate>
