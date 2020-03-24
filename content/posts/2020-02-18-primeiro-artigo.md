@@ -1,7 +1,7 @@
 ---
 title: Primeiro artigo do blog
 thumbnail: assets/454929001394074.jpg
-description: Primeiro artigo do blog
+description: Primeiro artigo do blog 2
 category: 'fisioterapia, esportiva'
 date: '2020-02-17 11:45:08'
 ---
