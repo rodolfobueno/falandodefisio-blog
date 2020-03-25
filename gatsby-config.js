@@ -3,54 +3,61 @@ require("dotenv").config()
 const queries = require("./src/utils/algolia_queries")
 
 const plugins = [
-  `gatsby-plugin-styled-components`,
-  `gatsby-plugin-react-helmet`,
-  `gatsby-plugin-transition-link`,
-  // needs to be the first to work with gatsby-remark-images
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      name: `uploads`,
-      path: `${__dirname}/static/assets`,
-    },
-  },
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      name: `assets`,
-      path: `${__dirname}/content/assets`,
-    },
-  },
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
-      name: `posts`,
-      path: `${__dirname}/content/posts`,
-    },
-  },
+  `gatsby-plugin-sharp`,
+  `gatsby-transformer-sharp`,
   {
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [
         {
           resolve: "gatsby-remark-relative-images",
-          options: {
-            name: "uploads",
-          },
         },
         {
           resolve: "gatsby-remark-images",
           options: {
-            maxWidth: 960,
+            maxWidth: 650,
             linkImagesToOriginal: false,
           },
         },
+        {
+          resolve: "gatsby-remark-copy-linked-files",
+          options: {
+            destinationDir: "static",
+          },
+        },
+        `gatsby-plugin-catch-links`,
         `gatsby-remark-lazy-load`,
         `gatsby-remark-prismjs`,
+        `gatsby-remark-external-links`,
       ],
     },
   },
-  `gatsby-transformer-sharp`,
+  {
+    // needs to be the first to work with gatsby-remark-images
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      path: `${__dirname}/static/assets`,
+      name: `uploads`,
+    },
+  },
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      path: `${__dirname}/content/assets`,
+      name: `assets`,
+    },
+  },
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      path: `${__dirname}/content/posts`,
+      name: `posts`,
+    },
+  },
+  `gatsby-plugin-resolve-src`,
+  `gatsby-plugin-styled-components`,
+  `gatsby-plugin-react-helmet`,
+  `gatsby-plugin-transition-link`,
   {
     resolve: `gatsby-plugin-algolia-search`,
     options: {
@@ -62,7 +69,7 @@ const plugins = [
       enablePartialUpdates: true,
     },
   },
-  `gatsby-plugin-sharp`,
+
   {
     resolve: `gatsby-plugin-manifest`,
     options: {

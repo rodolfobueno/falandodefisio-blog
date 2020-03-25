@@ -22,7 +22,7 @@ export const RecommendedLink = styled(AniLink)`
     font-size: .9rem;
   `}
   &:hover {
-    background: var(--borders);
+    background: var(--lightGray);
   }
   &.previous {
     border-right: 1px solid var(--borders);

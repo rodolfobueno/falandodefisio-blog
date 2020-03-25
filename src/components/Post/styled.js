@@ -5,6 +5,7 @@ export const PostsWrapper = styled.div`
   margin-left: auto;
   margin-right: auto;
   max-width: 810px;
+  padding: 0 1rem;
 `
 
 export const PostHeader = styled.header`

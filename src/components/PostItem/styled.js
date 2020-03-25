@@ -14,9 +14,9 @@ export const PostItemWrapper = styled.section`
   align-items: center;
   border: 1px solid var(--borders);
   display: flex;
-  margin: 1rem 1rem;
+  margin: 1rem;
   width: 100%;
-  padding: 1rem 0px;
+  padding: 1rem 0;
   background-color: var(--background);
   &:hover {
     box-shadow: 1px 1px 2px -1px rgba(0, 0, 0, 0.3);
@@ -55,8 +55,7 @@ export const PostItemTitle = styled.h1`
 `
 
 export const PostItemDescription = styled.p`
-  font-size: 1.2rem;
-  font-weight: 300;
+  font-size: 0.9rem;
   line-height: 1.2;
 `
 
@@ -71,7 +70,7 @@ export const TagCategoryWrapper = styled.div`
   padding-top: 1rem;
 `
 export const ImgWrapper = styled(Img)`
-  width: 32rem;
-  margin: 1rem 0rem;
-  padding: 1rem 0px;
+  width: 16rem;
+  margin: 1rem 0;
+  padding: 1rem 0;
 `

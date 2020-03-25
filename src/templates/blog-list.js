@@ -30,9 +30,7 @@ const BlogList = props => {
                 date,
                 description,
                 title,
-                thumbnail: {
-                  childImageSharp: { fluid },
-                },
+                thumbnail,
               },
               timeToRead,
               fields: { slug },
@@ -47,7 +45,11 @@ const BlogList = props => {
               timeToRead={timeToRead}
               title={title}
               description={description}
-              thumbnail={fluid}
+              thumbnail={
+                thumbnail && thumbnail.childImageSharp
+                  ? thumbnail.childImageSharp.fixed
+                  : undefined
+              }
             />
           )
         )}
@@ -83,8 +85,8 @@ export const query = graphql`
             title
             thumbnail {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                fixed {
+                  ...GatsbyImageSharpFixed_tracedSVG
                 }
               }
             }
