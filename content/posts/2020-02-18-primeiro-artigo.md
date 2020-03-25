@@ -1,6 +1,6 @@
 ---
 title: Primeiro artigo do blog 2222
-thumbnail: assets/killzone.jpg
+thumbnail: assets/new-avengersphoto2.jpg
 description: Primeiro artigo do blog 2
 category: 'fisioterapia, esportiva'
 date: '2020-02-17 11:45:08'
