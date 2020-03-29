@@ -109,6 +109,7 @@ export const MainContent = styled.section`
   img {
     display: block;
     max-width: 100%;
+    pointer-events: none;
   }
   iframe {
     padding: 0 1.6rem 1.6rem;

@@ -61,6 +61,7 @@ const GlobalStyles = createGlobalStyle`
     display: block;
   	width: 100%;
   	height: auto;
+    pointer-events: none;
   }
   p:not(:last-child) {
     margin-bottom: 1.6rem;
