@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 export const FooterWrapper = styled.footer`
   align-items: center;
-  background-color: #757575;
+  background-color: var(--gray);
   bottom: 0px;
   box-shadow: 2px 3px 4px rgba(18, 18, 18, 0.12);
   border-top: 1px solid var(--borders);

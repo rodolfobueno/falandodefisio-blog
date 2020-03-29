@@ -12,7 +12,7 @@ export const PostHeader = styled.header`
   color: var(--postColor);
   margin: auto;
   max-width: 70rem;
-  padding: 3rem 5rem 0;
+  padding: 2rem 5rem 0;
   ${media.lessThan("large")`
     padding: 1.5rem 0 0;
     max-width: 100%;
@@ -20,9 +20,8 @@ export const PostHeader = styled.header`
 `
 
 export const PostTitle = styled.h1`
-  font-size: 4rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  padding: 0 1.4rem;
   margin: 1rem auto;
   ${media.lessThan("large")`
     font-size: 2.8rem;
@@ -32,9 +31,9 @@ export const PostTitle = styled.h1`
 `
 
 export const PostDescription = styled.h2`
-  font-size: 2rem;
+  font-size: 1.2rem;
   font-weight: 200;
-  padding: 0 1.4rem;
+  color: var(--gray);
   ${media.lessThan("large")`
     font-size: 1.6rem;
     line-height: 1.3;
@@ -42,19 +41,19 @@ export const PostDescription = styled.h2`
   `}
 `
 
-export const PostDate = styled.p`
-  font-size: 1.1rem;
+export const PostDate = styled.div`
+  font-size: 0.8rem;
   font-weight: 100;
-  padding: 0 1.4rem;
+  color: var(--gray);
   ${media.lessThan("large")`
-    padding: 0 1.6rem;
+    padding: 0 1rem;
   `}
 `
 
 export const MainContent = styled.section`
   margin: auto;
   max-width: 70rem;
-  padding: 2rem 5rem;
+  padding: 2rem 3.6rem;
   ${media.lessThan("large")`
     padding: 2rem 0;
     max-width: 100%;
@@ -70,7 +69,6 @@ export const MainContent = styled.section`
   iframe,
   .button-post {
     color: var(--postColor);
-    font-size: 1.25rem;
     font-weight: 300;
     line-height: 1.7;
     letter-spacing: 0.069rem;

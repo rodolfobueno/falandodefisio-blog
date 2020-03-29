@@ -19,12 +19,14 @@ const Footer = () => (
     <S.FooterByWho>
       Um blog por{" "}
       <S.FooterByWhoLink
+        title="Site Pleni Saúde"
         href="http://www.plenifisioterapia.com.br"
         onClick={() => trackClick("Site Pleni")}
       >
         Pleni Saúde Integrada
       </S.FooterByWhoLink>
       <S.FooterByWhoLink
+        title="Instagram Pleni Saúde"
         href="http://www.instagram.com.br/pleni_saude"
         onClick={() => trackClick("Instagram Pleni")}
       ></S.FooterByWhoLink>

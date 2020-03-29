@@ -12,8 +12,8 @@ const PostItem = ({
   thumbnail,
 }) => (
   <S.PostItemLink to={slug}>
-    {thumbnail && <S.ImgWrapper fluid={thumbnail} />}
     <S.PostItemWrapper>
+      {thumbnail && <S.ImgWrapper fluid={thumbnail} />}
       <S.PostItemInfo>
         <S.PostItemDate>
           {date} • {timeToRead} min de leitura

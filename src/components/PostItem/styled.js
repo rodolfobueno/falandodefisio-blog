@@ -10,13 +10,15 @@ export const PostItemLink = styled(AniLink)`
   text-decoration: none;
 `
 
-export const PostItemWrapper = styled.section`
+export const PostItemWrapper = styled.div`
   align-items: center;
   border: 1px solid var(--borders);
   display: flex;
+  flex-direction: column;
   margin: 1rem;
   width: 100%;
-  padding: 1rem 0;
+  padding-bottom: 0.5rem;
+  border-radius: 5px;
   background-color: var(--background);
   &:hover {
     box-shadow: 1px 1px 2px -1px rgba(0, 0, 0, 0.3);
@@ -36,11 +38,12 @@ export const PostItemTag = styled.div`
 export const PostItemInfo = styled.div`
   display: flex;
   flex-direction: column;
-  margin: 0rem 1.5rem;
+  width: 100%;
+  padding: 1rem;
 `
 
 export const PostItemDate = styled.time`
-  color: #757575;
+  color: var(--gray);
   display: block;
   font-size: 0.8rem;
   letter-spacing: 0.1rem;
@@ -54,8 +57,9 @@ export const PostItemTitle = styled.h1`
   margin: 1rem 0rem;
 `
 
-export const PostItemDescription = styled.p`
+export const PostItemDescription = styled.div`
   font-size: 0.9rem;
+  color: var(--gray);
   line-height: 1.2;
 `
 
@@ -70,7 +74,10 @@ export const TagCategoryWrapper = styled.div`
   padding-top: 1rem;
 `
 export const ImgWrapper = styled(Img)`
-  width: 16rem;
-  margin: 1rem 0;
-  padding: 1rem 0;
+  width: 100%;
+  height: 250px;
+  margin: 0;
+  padding-bottom: 1rem;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 `
