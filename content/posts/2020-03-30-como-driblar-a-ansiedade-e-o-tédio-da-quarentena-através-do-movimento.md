@@ -31,9 +31,9 @@ Encontre maneiras de se livrar desses pensamentos. Estabeleça uma rotina, metas
 ***Tenha uma rede de apoio:*** você não está sozinho! Muitas pessoas estão passando e pensando a mesma coisa que você! Converse com os amigos, aproveite esse tempo de isolamento social e faça contato pelo celular, internet! Sabe aquele amigo que você não vê faz tempo, sempre lembra, mas nunca consegue
 encontrar?! Essa é uma ótima hora para estreitar os laços.
 
-![](/assets/design-sem-nome-5-.png)
-
 Aceitar a situação que você se encontra pode ser o início para uma grande crescimento pessoal.
+
+![](/assets/design-sem-nome-5-.png)
 
 **Praticando o Relaxamento**
 
