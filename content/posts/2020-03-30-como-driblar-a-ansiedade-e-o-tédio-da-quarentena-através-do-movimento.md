@@ -75,3 +75,13 @@ de relaxamento. Como no exercício acima.
 Você pode começar com a inspiração em 2 seg, e a expiração em 2 segundos e ir aumentando o tempo. Nessa técnica, um truque importante é tentar criar um ritmo enquanto faz a contagem.
 
 *Parece pouco, exercícios muito simples ou até bobos. Mas eles tem o poder de diminuir o seu estado de alerta, seus músculos ficam mais relaxados e seu coração bate mais devagar. Você vai perceber que esses exercícios ajudam, e muito, quem está precisando relaxar!*
+
+**Mobilidade e Ativação**
+
+![](/assets/design-sem-nome-6-.png)
+
+Como a maioria de nós está em casa, a tendência é que você se movimente menos. Isso pode gerar rigidez e dores em músculos e articulações. O que não se usa, estraga!
+
+É muito importante que você se mantenha em movimento. Os exercícios de mobilidade e flexibilidade dinâmicos, além de melhorar a sensação de rigidez, ativam a musculatura e podem servir de aquecimento para exercícios mais intensos. 
+
+Os exercícios abaixo irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?!
