@@ -75,4 +75,4 @@ Como a maioria de nós está em casa, a tendência é que você se movimente men
 
 É muito importante que você se mantenha em movimento. Os exercícios de mobilidade e flexibilidade dinâmicos, além de melhorar a sensação de rigidez, ativam a musculatura e podem servir de aquecimento para exercícios mais intensos. 
 
-Nesse post serão demonstrados exercícios que irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?! Clique aqui para realizar a leitura.
+No próximo post serão demonstrados exercícios que irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?! [Clique aqui](https://www.falandodefisio.com.br/2020-03-30-como-driblar-a-ansiedade-e-o-tédio-da-quarentena-através-do-movimento-e-respiração-exercicios) para realizar a leitura.
