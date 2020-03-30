@@ -1,5 +1,7 @@
 ---
-title: Como driblar a ansiedade e o tédio da quarentena através do movimento
+title: >-
+  Como driblar a ansiedade e o tédio da quarentena através do movimento e
+  respiração
 thumbnail: /assets/design-sem-nome.png
 description: >-
   Dicas para aliviar o stress, tensões e dores musculares neste período de
