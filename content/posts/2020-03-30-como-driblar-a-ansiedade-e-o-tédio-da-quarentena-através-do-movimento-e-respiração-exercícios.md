@@ -1,7 +1,5 @@
 ---
-title: >-
-  Como driblar a ansiedade e o tédio da quarentena através do movimento e
-  respiração - Exercícios
+title: 'Mente e Corpo: Como se livrar das dores no período de isolamento'
 thumbnail: /assets/cover-artigo1.jpg
 description: >-
   Exercícios para aliviar o stress, tensões e dores musculares neste período de
@@ -9,18 +7,17 @@ description: >-
 category: >-
   dor nas costas, tratamento para dor, exercicio em casa, relaxamento,
   respiração, fisioretapia
-date: "2020-03-29 11:47:17"
+date: '2020-03-29 11:47:17'
 ---
-
 **Mobilidade e Ativação**
 
 ![](/assets/yoga_quartobranco.jpg)
 
-Como a maioria de nós está em casa, a tendência é que você se movimente menos. Isso pode gerar rigidez e dores em músculos e articulações. O que não se usa, estraga!
+Sabemos que o movimento é essencial para a saúde dos nossos músculos e articulações, e fundamental para que possamos realizar as nossas atividades do dia-a-dia. Como a maioria de nós está em casa, a tendência é que você se movimente menos. Isso pode gerar rigidez e dores em músculos e articulações. O que não se usa, estraga!
 
 É muito importante que você se mantenha em movimento. Os exercícios de mobilidade e flexibilidade dinâmicos, além de melhorar a sensação de rigidez, ativam a musculatura e podem servir de aquecimento para exercícios mais intensos.
 
-Os exercícios abaixo irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?!
+Sei que não é fácil manter uma rotina de exercícios em casa, ainda mais quando a cabeça está cheia de informações, ansiedade e incertezas. Por isso selecionei uma sequência rápida e fácil de movimentos para você se livrar das dores nessa quarentena. Os exercícios abaixo irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?!
 
 **Mobilidade global de tronco**
 
@@ -48,8 +45,7 @@ Na posição semi-ajoelhado, leve o joelho para frente, sem elevar o calcanhar. 
 
 **Flexibilidade ativa da musculatura posterior de coxa**
 
-Deitado de barriga para cima, segure o membro inferior com o joelho e quadril flexionados cerca de 90 graus. Estenda o joelho, com objetivo de alongar a musculatura posterior da coxa.
-Vá até a máxima amplitude e volte a posição inicial, repita de 5 a 15 vezes cada lado.
+Deitado de barriga para cima, segure o membro inferior com o joelho e quadril flexionados cerca de 90 graus. Estenda o joelho, com objetivo de alongar a musculatura posterior da coxa. Vá até a máxima amplitude e volte a posição inicial, repita de 5 a 15 vezes cada lado.
 
 ![](/assets/f49062e1-ee1f-44bc-a2b6-c3d9678d0f70.jpg)
 
@@ -65,8 +61,7 @@ Deitado de barriga para cima, e joelhos flexionados, cruze uma das pernas na for
 
 **Ativação de extensores de quadril**
 
-Deitado de barriga para cima, com os joelhos flexionados, eleve o quadril do apoio contraindo o glúteo e mantendo os joelhos alinhados com o quadril. Repita de 8 a 10 vezes. Você pode
-aumentar a dificuldade, realizando o exercício de forma unilateral, elevando uma das pernas.
+Deitado de barriga para cima, com os joelhos flexionados, eleve o quadril do apoio contraindo o glúteo e mantendo os joelhos alinhados com o quadril. Repita de 8 a 10 vezes. Você pode aumentar a dificuldade, realizando o exercício de forma unilateral, elevando uma das pernas.
 
 ![](/assets/6a68b7c3-22ff-4036-92a0-59cd83cfd6f1.jpg)
 
@@ -86,8 +81,7 @@ Caso você não tenha um rolo de espuma, o exercício pode ser realizado sentado
 
 **Mobilidade coluna lombar**
 
-Deitado de barriga para baixo, apoie os braços ao lado do corpo. Realize a elevação da coluna, estendendo os braços e tentando não tirar o quadril do chão. Volte à posição inicial. Repita de 8
-a 15 vezes.
+Deitado de barriga para baixo, apoie os braços ao lado do corpo. Realize a elevação da coluna, estendendo os braços e tentando não tirar o quadril do chão. Volte à posição inicial. Repita de 8 a 15 vezes.
 
 ![](/assets/8a864415-3f5e-4bec-993d-e790202c56c5.jpg)
 
