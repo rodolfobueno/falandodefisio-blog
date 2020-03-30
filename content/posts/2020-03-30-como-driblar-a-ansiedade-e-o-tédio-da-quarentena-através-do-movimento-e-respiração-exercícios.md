@@ -3,8 +3,12 @@ title: >-
   Como driblar a ansiedade e o tédio da quarentena através do movimento e
   respiração - Exercícios
 thumbnail: /assets/design-sem-nome.png
-description: Outro
-category: teso
+description: >-
+  Exercícios para aliviar o stress, tensões e dores musculares neste período de
+  isolamento, através do equilíbrio entre corpo e mente
+category: >-
+  dor nas costas, tratamento para dor, exercicio em casa, relaxamento,
+  respiração, fisioretapia
 date: '2020-03-29 11:47:17'
 ---
 **Mobilidade global de tronco** 
