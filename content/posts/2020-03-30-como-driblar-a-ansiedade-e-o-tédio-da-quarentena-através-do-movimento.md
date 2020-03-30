@@ -106,14 +106,28 @@ Sentado com as pernas cruzadas, deslize o tronco para frente e retorne a posiç�
 
 
 **Mobilidade de quadril e tornozelos**
-Na posição semi-ajoelhado, leve o joelho para frente, sem elevar o calcanhar. Quando sentir que
-o calcanhar irá se levantar, realize uma pressão para baixo com as mãos, sobre o joelho. Volte a
-posição inicial. Repita de 8 a 15 vezes cada lado.
-Flexibilidade ativa da musculatura posterior de coxa
+
+
+Na posição semi-ajoelhado, leve o joelho para frente, sem elevar o calcanhar. Quando sentir que o calcanhar irá se levantar, realize uma pressão para baixo com as mãos, sobre o joelho. Volte a posição inicial. Repita de 8 a 15 vezes cada lado.
+
+![](/assets/b9b6ef22-e714-4ec8-a300-7f162e1b49fd.jpg)
+
+![](/assets/47b2a266-6fd5-4a02-9717-d92d38e2401c.jpg)
+
+
+**Flexibilidade ativa da musculatura posterior de coxa**
+
+
 Deitado de barriga para cima, segure o membro inferior com o joelho e quadril flexionados
 cerca de 90 graus. Estenda o joelho, com objetivo de alongar a musculatura posterior da coxa.
 Vá até a máxima amplitude e volte a posição inicial, repita de 5 a 15 vezes cada lado.
-Ativação de extensores de quadril
+
+
+![](/assets/f49062e1-ee1f-44bc-a2b6-c3d9678d0f70.jpg)
+
+![](/assets/d30c4c65-a5f2-4c93-8779-88729e63a2a6.jpg)
+
+**Ativação de extensores de quadril**
 Deitado de barriga para cima, com os joelhos flexionados, eleve o quadril do apoio contraindo o
 glúteo e mantendo os joelhos alinhados com o quadril. Repita de 8 a 10 vezes. Você pode
 aumentar a dificuldade, realizando o exercício de forma unilateral, elevando uma das pernas.
