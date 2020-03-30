@@ -2,16 +2,27 @@
 title: >-
   Como driblar a ansiedade e o tédio da quarentena através do movimento e
   respiração - Exercícios
-thumbnail: /assets/design-sem-nome.png
+thumbnail: /assets/cover-artigo1.jpg
 description: >-
   Exercícios para aliviar o stress, tensões e dores musculares neste período de
   isolamento, através do equilíbrio entre corpo e mente
 category: >-
   dor nas costas, tratamento para dor, exercicio em casa, relaxamento,
   respiração, fisioretapia
-date: '2020-03-29 11:47:17'
+date: "2020-03-29 11:47:17"
 ---
-**Mobilidade global de tronco** 
+
+**Mobilidade e Ativação**
+
+![](/assets/yoga_quartobranco.jpg)
+
+Como a maioria de nós está em casa, a tendência é que você se movimente menos. Isso pode gerar rigidez e dores em músculos e articulações. O que não se usa, estraga!
+
+É muito importante que você se mantenha em movimento. Os exercícios de mobilidade e flexibilidade dinâmicos, além de melhorar a sensação de rigidez, ativam a musculatura e podem servir de aquecimento para exercícios mais intensos.
+
+Os exercícios abaixo irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?!
+
+**Mobilidade global de tronco**
 
 Sentado sobre o joelhos, deslize o corpo para frente o máximo que conseguir sem elevar o quadril. Mantenha alguns segundos e volte à posição inicial. Repita de 5 a 10 vezes. Você pode aproveitar o exercício e associar com exercícios de respiração, puxando o ar na posição inicial e expirando ao alongar.
 
@@ -61,7 +72,7 @@ aumentar a dificuldade, realizando o exercício de forma unilateral, elevando um
 
 ![](/assets/532bd3d8-aed6-418e-9850-e3fa6950d28b.jpg)
 
-**Mobilidade coluna torácica** 
+**Mobilidade coluna torácica**
 
 Deitado, posicione um rolo da espuma um pouco abaixo das escápulas. Coloque as duas mãos atrás da cabeça e realize uma extensão da coluna torácica, deitando sobre o rolo. Repita de 5 a 10 vezes.
 
@@ -82,4 +93,4 @@ a 15 vezes.
 
 ![](/assets/cb4d6f9a-a063-442b-94d7-69a253a1e7e2.jpg)
 
-Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado.  **E lembre-se: Se puder fique em casa e mantenha-se em movimento**. 😊
+Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado. **E lembre-se: Se puder fique em casa e mantenha-se em movimento**. 😊
