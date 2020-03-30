@@ -172,5 +172,5 @@ a 15 vezes.
 
 ![](/assets/cb4d6f9a-a063-442b-94d7-69a253a1e7e2.jpg)
 
-Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado.
+Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado. 
 **E lembre-se: Se puder fique em casa e mantenha-se em movimento**. 😊
