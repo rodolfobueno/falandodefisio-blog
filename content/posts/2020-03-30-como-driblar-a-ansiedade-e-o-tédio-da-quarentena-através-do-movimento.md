@@ -127,24 +127,50 @@ Vá até a máxima amplitude e volte a posição inicial, repita de 5 a 15 vezes
 
 ![](/assets/d30c4c65-a5f2-4c93-8779-88729e63a2a6.jpg)
 
+**Flexibilidade de quadril**
+
+Deitado de barriga para cima, e joelhos flexionados, cruze uma das pernas na forma de um "quatro". Puxe a perna que esta apoiada no chão, em direção a barriga, tentando manter o quadril no apoio. Mantenha por 20 segundos, repita de 5 a 10 vezes cada lado.
+
+![](/assets/b9fea88c-f590-4c44-96ef-58e75511cb61.jpg)
+
+![](/assets/05164799-c7a0-4716-a4ab-c15e7d5254b6.jpg)
+
+
+
 **Ativação de extensores de quadril**
+
+
 Deitado de barriga para cima, com os joelhos flexionados, eleve o quadril do apoio contraindo o
 glúteo e mantendo os joelhos alinhados com o quadril. Repita de 8 a 10 vezes. Você pode
 aumentar a dificuldade, realizando o exercício de forma unilateral, elevando uma das pernas.
 
-Mobilidade coluna torácica Deitado, posicione um rolo da espuma um pouco abaixo das escápulas. Coloque as duas mãos
-atrás da cabeça e realize uma extensão da coluna torácica, deitando sobre o rolo. Repita de 5 a
-10 vezes.
+![](/assets/6a68b7c3-22ff-4036-92a0-59cd83cfd6f1.jpg)
 
-Caso você não tenha um rolo de espuma, o exercício pode ser realizado sentado em uma cadeira, com o apoio abaixo da escápula.
-Ativação da musculatura estabilizadora de tronco
-Com cotovelos flexionados, o peso do corpo nos braços e ponta dos pés elevando o corpo na
-posição de prancha. Mantenha a posição de 30 segundos a 2 min. Comece com a quantidade
-de tempo possível e vá aumentando ao longo do tempo.
-Mobilidade coluna lombar
+![](/assets/532bd3d8-aed6-418e-9850-e3fa6950d28b.jpg)
+
+**Mobilidade coluna torácica** 
+
+Deitado, posicione um rolo da espuma um pouco abaixo das escápulas. Coloque as duas mãos atrás da cabeça e realize uma extensão da coluna torácica, deitando sobre o rolo. Repita de 5 a 10 vezes.
+
+Caso você não tenha um rolo de espuma, o exercício pode ser realizado sentado em uma cadeira, com o apoio abaixo da escápula e realize a extensão.
+
+![](/assets/bf4db85f-60e2-4249-9b58-467a9a754be8.jpg)
+
+![](/assets/4c8433f4-fd7d-43e9-917e-332616f4233a.jpg)
+
+![](/assets/0f1e4f74-75ce-4a6b-ab89-a0637dec500a.jpg)
+
+
+**Mobilidade coluna lombar**
+
+
 Deitado de barriga para baixo, apoie os braços ao lado do corpo. Realize a elevação da coluna,
 estendendo os braços e tentando não tirar o quadril do chão. Volte à posição inicial. Repita de 8
 a 15 vezes.
 
+![](/assets/8a864415-3f5e-4bec-993d-e790202c56c5.jpg)
+
+![](/assets/cb4d6f9a-a063-442b-94d7-69a253a1e7e2.jpg)
+
 Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado.
-E lembre-se: Se puder fique em casa e mantenha-se em movimento. 😊
+**E lembre-se: Se puder fique em casa e mantenha-se em movimento**. 😊
