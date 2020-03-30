@@ -87,3 +87,50 @@ Como a maioria de nós está em casa, a tendência é que você se movimente men
 É muito importante que você se mantenha em movimento. Os exercícios de mobilidade e flexibilidade dinâmicos, além de melhorar a sensação de rigidez, ativam a musculatura e podem servir de aquecimento para exercícios mais intensos. 
 
 Os exercícios abaixo irão te ajudar a realizar a ativação muscular e aliviar as dores e tensões nas regiões que mais sofrem com imobilismo. Vamos lá?!
+
+**Mobilidade global de tronco** 
+
+Sentado sobre o joelhos, deslize o corpo para frente o máximo que conseguir sem elevar o quadril. Mantenha alguns segundos e volte à posição inicial. Repita de 5 a 10 vezes. Você pode aproveitar o exercício e associar com exercícios de respiração, puxando o ar na posição inicial e expirando ao alongar.
+
+![](/assets/fff21412-b2c1-4290-8b4a-161ab7feb109.jpg)
+
+![](/assets/ea71e0bc-ae5e-4a41-89d3-0c356c5ddc25.jpg)
+
+**Mobilidade de tronco e quadril**
+
+Sentado com as pernas cruzadas, deslize o tronco para frente e retorne a posição inicial. Realize de 5 de 10 repetições, mude a ordem das pernas e repita.
+
+![](/assets/182ed6d5-97b4-443e-af99-13474bb917d8.jpg)
+
+![](/assets/1f91036c-d7f8-4a21-9ca4-08b26b92bc2c.jpg)
+
+
+**Mobilidade de quadril e tornozelos**
+Na posição semi-ajoelhado, leve o joelho para frente, sem elevar o calcanhar. Quando sentir que
+o calcanhar irá se levantar, realize uma pressão para baixo com as mãos, sobre o joelho. Volte a
+posição inicial. Repita de 8 a 15 vezes cada lado.
+Flexibilidade ativa da musculatura posterior de coxa
+Deitado de barriga para cima, segure o membro inferior com o joelho e quadril flexionados
+cerca de 90 graus. Estenda o joelho, com objetivo de alongar a musculatura posterior da coxa.
+Vá até a máxima amplitude e volte a posição inicial, repita de 5 a 15 vezes cada lado.
+Ativação de extensores de quadril
+Deitado de barriga para cima, com os joelhos flexionados, eleve o quadril do apoio contraindo o
+glúteo e mantendo os joelhos alinhados com o quadril. Repita de 8 a 10 vezes. Você pode
+aumentar a dificuldade, realizando o exercício de forma unilateral, elevando uma das pernas.
+
+Mobilidade coluna torácica Deitado, posicione um rolo da espuma um pouco abaixo das escápulas. Coloque as duas mãos
+atrás da cabeça e realize uma extensão da coluna torácica, deitando sobre o rolo. Repita de 5 a
+10 vezes.
+
+Caso você não tenha um rolo de espuma, o exercício pode ser realizado sentado em uma cadeira, com o apoio abaixo da escápula.
+Ativação da musculatura estabilizadora de tronco
+Com cotovelos flexionados, o peso do corpo nos braços e ponta dos pés elevando o corpo na
+posição de prancha. Mantenha a posição de 30 segundos a 2 min. Comece com a quantidade
+de tempo possível e vá aumentando ao longo do tempo.
+Mobilidade coluna lombar
+Deitado de barriga para baixo, apoie os braços ao lado do corpo. Realize a elevação da coluna,
+estendendo os braços e tentando não tirar o quadril do chão. Volte à posição inicial. Repita de 8
+a 15 vezes.
+
+Caso você tenha muita dificuldade em realizar alguns dos exercícios, ou a execução gere dores, procure um fisioterapeuta especializado.
+E lembre-se: Se puder fique em casa e mantenha-se em movimento. 😊
