@@ -5,7 +5,7 @@ url: como-driblar-ansiedade-tedio-quarentena
 description: >-
   Dicas para aliviar o stress e tensões neste período de isolamento através de estratégias de relaxamento.
 category: >-
-  dor nas costas, tratamento para dor, ansiedade, relaxamento, respiração, fisioretapia
+  ansiedade, relaxamento, quarentena
 date: "2020-03-29 10:20:39"
 ---
 

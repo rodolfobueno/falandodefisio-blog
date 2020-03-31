@@ -31,7 +31,7 @@ export const PostItemTag = styled.div`
   font-size: 11px;
   text-transform: lowercase;
   vertical-align: top;
-  padding-top: 0.3rem;
+  padding-top: 0.2rem;
   display: inline-block;
 `
 
