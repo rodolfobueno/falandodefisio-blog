@@ -1,14 +1,11 @@
 ---
-title: >-
-  Como driblar a ansiedade e o tédio da quarentena através do movimento e
-  respiração
-thumbnail: /assets/cover-artigo1.jpg
+title: "Mente e Corpo: Como driblar a ansiedade e o tédio na quarentena"
+thumbnail: /assets/cover-respiracao-quarentena.png
+url: como-driblar-ansiedade-tedio-quarentena
 description: >-
-  Dicas para aliviar o stress, tensões e dores musculares neste período de
-  isolamento, através do equilíbrio entre corpo e mente
+  Dicas para aliviar o stress e tensões neste período de isolamento através de estratégias de relaxamento.
 category: >-
-  dor nas costas, tratamento para dor, exercicio em casa, relaxamento,
-  respiração, fisioretapia
+  dor nas costas, tratamento para dor, ansiedade, relaxamento, respiração, fisioretapia
 date: "2020-03-29 10:20:39"
 ---
 

@@ -1,14 +1,15 @@
 ---
-title: 'Mente e Corpo: Como se livrar das dores no período de isolamento'
-thumbnail: /assets/cover-artigo1.jpg
+title: "Mente e Corpo: Como se livrar das dores no período de isolamento"
+thumbnail: /assets/cover-exercicios-quarentena.png
+url: "como-livrar-dores-quarentena"
 description: >-
-  Exercícios para aliviar o stress, tensões e dores musculares neste período de
-  isolamento, através do equilíbrio entre corpo e mente
+  Exercícios de mobilidade e ativação para aliviar as dores musculares neste período de
+  quarentena
 category: >-
-  dor nas costas, tratamento para dor, exercicio em casa, relaxamento,
-  respiração, fisioretapia
-date: '2020-03-29 11:47:17'
+  dor nas costas, tratamento para dor, ansiedade, relaxamento, respiração, fisioretapia
+date: "2020-03-29 11:47:17"
 ---
+
 **Mobilidade e Ativação**
 
 ![](/assets/yoga_quartobranco.jpg)
