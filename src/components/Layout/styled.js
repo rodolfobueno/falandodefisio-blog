@@ -13,5 +13,5 @@ export const LayoutMain = styled.main`
 export const BodyWrapper = styled.div`
   padding-top: 6rem;
   padding-bottom: 4rem;
-  background-color: #f9f9f9;
+  background-color: #f6f6f6;
 `
