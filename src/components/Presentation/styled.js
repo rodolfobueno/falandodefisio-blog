@@ -8,9 +8,10 @@ export const PresentationWrapper = styled.div`
   max-width: 810px;
   font-size: 1rem;
   font-weight: 400;
-  letter-spacing: -0.04px;
+  letter-spacing: 0.5px;
   line-height: 1.5em;
   padding-top: 0.5rem;
+  text-align: justify;
   ${media.lessThan("large")`
     padding: 0 2rem;
   `}

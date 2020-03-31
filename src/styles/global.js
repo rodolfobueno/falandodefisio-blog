@@ -22,7 +22,7 @@ const GlobalStyles = createGlobalStyle`
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
+    font: "inherit";
     vertical-align: baseline;
   }
   /* HTML5 display-role reset for older browsers */
@@ -55,7 +55,7 @@ const GlobalStyles = createGlobalStyle`
     background: var(--background);
     line-height: 1;
     font-size: 100%;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
   }
   img {
     display: block;

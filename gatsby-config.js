@@ -69,7 +69,14 @@ const plugins = [
       enablePartialUpdates: true,
     },
   },
-
+  {
+    resolve: "gatsby-plugin-web-font-loader",
+    options: {
+      google: {
+        families: ["Open Sans"],
+      },
+    },
+  },
   {
     resolve: `gatsby-plugin-manifest`,
     options: {

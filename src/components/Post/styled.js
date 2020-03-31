@@ -54,6 +54,7 @@ export const MainContent = styled.section`
   margin: auto;
   max-width: 70rem;
   padding: 2rem 3.6rem;
+  text-align: justify;
   ${media.lessThan("large")`
     padding: 2rem 0;
     max-width: 100%;
@@ -71,7 +72,7 @@ export const MainContent = styled.section`
     color: var(--postColor);
     font-weight: 300;
     line-height: 1.7;
-    letter-spacing: 0.069rem;
+    letter-spacing: 0.05rem;
     padding: 0 1.4rem;
     ${media.lessThan("large")`
       padding: 0 1rem;
