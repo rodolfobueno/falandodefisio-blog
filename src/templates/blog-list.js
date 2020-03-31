@@ -47,7 +47,7 @@ const BlogList = props => {
               description={description}
               thumbnail={
                 thumbnail && thumbnail.childImageSharp
-                  ? thumbnail.childImageSharp.fluid
+                  ? thumbnail.childImageSharp.fixed
                   : undefined
               }
             />
@@ -85,8 +85,8 @@ export const query = graphql`
             title
             thumbnail {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                fixed {
+                  ...GatsbyImageSharpFixed_tracedSVG
                 }
               }
             }
