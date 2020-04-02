@@ -1,7 +1,7 @@
 ---
 title: 'Saúde da Mulher: porque toda mulher deveria fazer pompoarismo'
 url: saude-mulher-pompoarismo-beneficios
-thumbnail: /assets/Design sem nome (2).PNG
+thumbnail: /assets/pompoarismo_capacobertorflores.PNG
 description: 'Conheça o pompoarismo e seus benefícios para a saúde íntima, além do prazer.'
 category: 'pompoarismo, saúde da mulher, fisioterapia pélvica'
 date: '2020-04-02 08:20:03'
