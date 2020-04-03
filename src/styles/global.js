@@ -66,6 +66,9 @@ const GlobalStyles = createGlobalStyle`
   p:not(:last-child) {
     margin-bottom: 1.6rem;
   }
+  .gatsby-resp-image-wrapper {
+    max-width: 445px !important;
+  }
   body.dark {
     --borders: #38444d;
     --texts: #8899a6;
