@@ -30,9 +30,9 @@ Como falamos, o pompoarismo envolve o treino da musculatura da região íntima. 
 
 Problemas como incontinência urinária, quedas de órgãos pélvicos, dores, alterações de lubrificação, incapacidades de ter orgasmo, flatos vaginais entre tantos outros possuem relação direta com o grau de força e capacidade de ativação da musculatura pélvica. Portanto, o treino de pompoarismo, quando realizado com constância e disciplina, é uma excelente forma de prevenir que futuras disfunções apareçam. 
 
-Além da prevenção, o pompoarismo pode trazer como benefícios o aprimoramento e intensificação da performance sexual que a mulher já possui. Como é isso? Ao fortalecer sua musculatura íntima, a mulher melhora seu tônus e sensibilidade local, assim como a irrigação sanguínea. Desta forma, a região íntima fica mais “durinha”, mais cheia, a sensibilidade ao toque e a resposta aos estímulos ficam mais fáceis e prazerosas, a lubrificação melhora e a orgasmo fica mais forte e prolongado. Ou seja, os benefícios se refletem não só na cama (o que já seria bem convincente), mas vão além. Os resultados positivos se refletem na saúde íntima e consequentemente no bem-estar geral da mulher.
-
 ![](/assets/pompoarismo_mulherfelizcama.PNG)
+
+Além da prevenção, o pompoarismo pode trazer como benefícios o aprimoramento e intensificação da performance sexual que a mulher já possui. Como é isso? Ao fortalecer sua musculatura íntima, a mulher melhora seu tônus e sensibilidade local, assim como a irrigação sanguínea. Desta forma, a região íntima fica mais “durinha”, mais cheia, a sensibilidade ao toque e a resposta aos estímulos ficam mais fáceis e prazerosas, a lubrificação melhora e a orgasmo fica mais forte e prolongado. Ou seja, os benefícios se refletem não só na cama (o que já seria bem convincente), mas vão além. Os resultados positivos se refletem na saúde íntima e consequentemente no bem-estar geral da mulher.
 
 **Quebrando alguns mitos**
 
@@ -48,11 +48,11 @@ Por fim, o mito de que o pompoarismo trás benefícios somente relacionados a pe
 
 **Movimentos básicos e as 8 manobras**
 
+![](/assets/pompoarismo_pelvecomcopodeleite.PNG)
+
 Agora que já entendemos o que é o pompoarismo e os benefícios da técnica, está na hora de praticarmos. A princípio parece impossível a execução das famosas manobras do pompoar, que além dos nomes exóticos exigem força, ritmo e coordenação, mas não é. Na verdade as manobras são bem simples, e não passam da combinação de movimentos de contrair e relaxar os músculos do assoalho pélvico, usados no momento certo, da forma certa. Porém para aplicar as manobras na hora h, é necessário treino com disciplina e dedicação, e este treino é realizado fora da cama.
 
 As manobras do pompoarismo são: ordenhar, chupitar, estrangular, pulsar, torcer, expelir, travar e sugar. E como falei, apesar dos nomes estranhos, se resumem na contração e relaxamento dos músculos. Porém cada manobra possui o momento e posição sexual adequado para melhor execução e todas exigem treinamento anterior ao ato em si. Dessa forma, aprendendo e aperfeiçoando o básico - contrair e relaxar, vocês já estarão garantindo maior parte das manobras e já usufruirão dos benefícios do método.
-
-![](/assets/pompoarismo_pelvecomcopodeleite.PNG)
 
 **Iniciando os treinos**
 
