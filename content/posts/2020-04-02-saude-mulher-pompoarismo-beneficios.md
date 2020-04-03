@@ -1,6 +1,6 @@
 ---
 title: 'Saúde da Mulher: Pompoarismo na prática'
-url: saude-mulher-pompoarismo-beneficios
+url: pompoarismo-beneficios-pratica
 thumbnail: /assets/pompoarismo_capacobertorflores.PNG
 description: >-
   Conheça os benefícios e comece agora essa técnica e desfrute dos benefícios
