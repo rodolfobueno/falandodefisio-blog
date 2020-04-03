@@ -3,8 +3,8 @@ title: 'Saúde da Mulher: Pompoarismo na prática'
 url: pompoarismo-beneficios-pratica
 thumbnail: /assets/pompoarismo_capacobertorflores.PNG
 description: >-
-  Conheça os benefícios e comece agora essa técnica e desfrute dos benefícios
-  que vão além do prazer!
+  Conheça os benefícios e comece agora essa técnica que traz benefícios que vão
+  além do prazer!
 category: 'pompoarismo, saúde da mulher, fisioterapia pélvica'
 date: '2020-04-02 08:20:03'
 ---
