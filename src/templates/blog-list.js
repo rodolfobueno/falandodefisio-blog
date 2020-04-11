@@ -19,7 +19,7 @@ const BlogList = props => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="A fisioterapia na dose certa para você" />
       <S.PostsWrapper>
         {postList.map(
           ({

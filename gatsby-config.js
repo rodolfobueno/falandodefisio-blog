@@ -107,7 +107,7 @@ if (process.env.CONTEXT === "production") {
 
 module.exports = {
   siteMetadata: {
-    title: `A fisioterapia na dose certa para você | Falando de Fisio`,
+    title: `Falando de Fisio`,
     description: `Encontre aqui artigos exclusivos sobre Fisioterapia. Aprenda como se movimentar melhor, eliminar dores, recuperar de lesões e até melhorar sua saúde íntima.`,
     author: `@pleni_saude`,
     siteUrl: `https://falandodefisio.com.br/`,
