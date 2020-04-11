@@ -18,7 +18,7 @@ export const FooterWrapper = styled.footer`
 export const FooterByWho = styled.div`
   font-size: 0.8rem;
 `
-export const FooterByWhoLink = styled.a.attrs(props => ({
+export const Link = styled.a.attrs(props => ({
   href: props.href,
   title: props.title,
   target: "_blank",

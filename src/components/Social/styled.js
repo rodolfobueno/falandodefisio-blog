@@ -1,11 +1,5 @@
 import styled from "styled-components"
-import {
-  Twitter,
-  Instagram,
-  LinkedinIn,
-  Codepen,
-  MediumM,
-} from "styled-icons/fa-brands"
+import { Instagram } from "styled-icons/fa-brands"
 
 const Icon = `
   display: block;
@@ -24,6 +18,7 @@ export const SocialItem = styled.a.attrs(props => ({
   rel: "noopener noreferrer",
 }))`
   align-items: center;
+  margin: 0 auto;
   color: var(--primaryColor);
   display: inline-flex;
   height: 3rem;
@@ -36,23 +31,6 @@ export const SocialItem = styled.a.attrs(props => ({
     color: var(--highlightColor);
   }
 `
-
-export const SocialTwitter = styled(Twitter)`
-  ${Icon}
-`
-
 export const SocialInstagram = styled(Instagram)`
-  ${Icon}
-`
-
-export const SocialLinkedin = styled(LinkedinIn)`
-  ${Icon}
-`
-
-export const SocialMedium = styled(MediumM)`
-  ${Icon}
-`
-
-export const SocialCodepen = styled(Codepen)`
   ${Icon}
 `

@@ -1,5 +1,6 @@
 import React from "react"
 import ReactGA from "react-ga"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Social from "../Social"
 
@@ -9,29 +10,42 @@ const trackClick = item => {
   ReactGA.event({
     category: "Social",
     action: "click",
-    label: `Social - ${item}`,
+    label: `Social - Footer - ${item}`,
   })
 }
 
-const Footer = () => (
-  <S.FooterWrapper>
-    <Social />
-    <S.FooterByWho>
-      Um blog por{" "}
-      <S.FooterByWhoLink
-        title="Site Pleni Saúde"
-        href="http://www.plenifisioterapia.com.br"
-        onClick={() => trackClick("Site Pleni")}
-      >
-        Pleni Saúde Integrada
-      </S.FooterByWhoLink>
-      <S.FooterByWhoLink
-        title="Instagram Pleni Saúde"
-        href="http://www.instagram.com.br/pleni_saude"
+const Footer = () => {
+  const { site } = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          social {
+            instagramLink
+          }
+        }
+      }
+    }
+  `)
+
+  return (
+    <S.FooterWrapper>
+      <Social
+        title="Instagram Pleni"
+        link={site.siteMetadata.social.instagramLink}
         onClick={() => trackClick("Instagram Pleni")}
-      ></S.FooterByWhoLink>
-    </S.FooterByWho>
-  </S.FooterWrapper>
-)
+      />
+      <S.FooterByWho>
+        Um blog por{" "}
+        <S.Link
+          title="Site Pleni Saúde"
+          href="http://www.plenifisioterapia.com.br"
+          onClick={() => trackClick("Site Pleni")}
+        >
+          Pleni Saúde Integrada
+        </S.Link>
+      </S.FooterByWho>
+    </S.FooterWrapper>
+  )
+}
 
 export default Footer
