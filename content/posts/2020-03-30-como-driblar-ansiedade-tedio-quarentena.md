@@ -1,12 +1,13 @@
 ---
-title: "Mente e Corpo: Como driblar a ansiedade e o tédio na quarentena"
-thumbnail: /assets/cover-respiracao-quarentena.png
+title: 'Mente e Corpo: Como driblar a ansiedade e o tédio na quarentena'
 url: como-driblar-ansiedade-tedio-quarentena
+thumbnail: /assets/cover-respiracao-quarentena.png
 description: >-
-  Dicas para aliviar o stress e tensões neste período de isolamento através de estratégias de relaxamento.
-category: >-
-  ansiedade, relaxamento, quarentena
-date: "2020-03-29 10:20:39"
+  Dicas para aliviar o stress e tensões neste período de isolamento através de
+  estratégias de relaxamento.
+category: 'ansiedade, relaxamento, quarentena'
+date: '2020-03-29 10:20:39'
+author: Karol Bomfim
 ---
 
 ![](/assets/bola_tapete.jpg)
