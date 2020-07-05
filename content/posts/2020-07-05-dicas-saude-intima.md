@@ -37,6 +37,8 @@ A perda involuntária de urina é sinônimo de incontinência urinária, indepen
 
 Uma alimentação equilibrada contribui para o equilíbrio da flora vaginal e para o bom funcionamento do intestino. A saúde intestinal também faz parte da saúde íntima da mulher, e o seu funcionamento inadequado pode causar problemas como constipação e hemorróida. Além disso, já é comprovado cientificamente que algumas disfunções como Síndrome dos Ovários Policísticos, Candidíase de repetição e vulvodínia podem ser agravadas por uma dieta desequilibrada rica em carboidrato, açúcar e álcool.
 
+![](/assets/amarelo-festa-de-aniversário-blog-banner-3-.png)
+
 **6. CONHEÇA SUAS FONTES DE PRAZER E SE ESTIMULE. EXPLORE A SUA SEXUALIDADE**
 
 Conheça o seu clitoris e sua zonas erógenas. Toque o seu corpo e se permita sentir prazer. Depois, caso você tenha um parceiro, compartilhe com ele suas novas descobertas. Não tenha medo ou vergonha de você mesmo. Permita-se pensar mais em sexo, permita-se querer mais e vá em busca do que deseja. A satisfação sexual começa com o autoconhecimento e reflete no bem-estar geral e na qualidade de vida da mulher.
