@@ -1,5 +1,5 @@
 ---
-title: "Saúde da Mulher: Check list da saúde da íntima feminina"
+title: "Saúde da Mulher: Check list da saúde íntima feminina"
 url: dicas-saude-intima
 thumbnail: /assets/design-sem-nome-1-.png
 description: 21 dicas de rotinas e cuidados que toda mulher deve ter com a sua sáude íntima
